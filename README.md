@@ -1,3 +1,3 @@
 # Workshop 2
 
-JACKFRUIT
+Our team name is JACKFRUIT
